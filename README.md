@@ -7,7 +7,3 @@ binder learning
 
 
 
-
-
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/Shwalia19/my-first-binder/HEAD
